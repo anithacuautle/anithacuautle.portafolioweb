@@ -1,0 +1,192 @@
+.loginIzq{
+  float: left;
+  left: 14%;
+  top: 20%;
+  position: absolute;
+}
+.loginDer{
+  top: 20%;
+  right: 15%;
+  position: absolute;
+  background: lightyellow;
+  border-radius: 0 20px 20px 0;
+  border-top: 5px solid lightpink;
+  border-right: 5px solid lightgreen;
+  border-bottom: 5px solid lightblue;
+  height: 390px;
+}
+.regDer{
+  top: 20%;
+  left: 33%;
+  position: absolute;
+  background-image: url("pruebas/jp0.jpg");
+  border-radius: 20px 20px 20px 20px;
+  border-top: 5px solid lightpink;
+  border-right: 5px solid lightpink;
+  border-bottom: 5px solid lightpink;
+  border-left: 5px solid lightpink;
+  height: 430px;
+}
+
+.menuDer{
+  top: 20%;
+  left: 6%;
+  position: absolute;
+  background: moccasin;
+  border-radius: 20px 20px 20px 20px;
+  border-top: 5px solid cyan;
+  border-right: 5px solid cyan;
+  border-bottom: 5px solid cyan;
+  border-left: 5px solid cyan;
+  height: 250px;
+    
+}
+.mDer{
+  top: 50%;
+  left: 17%;
+  position: absolute;
+  height: 250px;
+    
+}
+.meDer{
+  top: 20%;
+  left: 10%;
+  position: absolute;
+  border-radius: 20px 20px 20px 20px;
+  border-top: 5px solid cyan;
+  border-right: 5px solid cyan;
+  border-bottom: 5px solid cyan;
+  border-left: 5px solid cyan;
+  height: 300px;
+}
+.menDer{
+  top: 20%;
+  left: 35%;
+  position: absolute;
+  background: lightgreen;
+  border-radius: 20px 20px 20px 20px;
+  border-top: 5px solid cyan;
+  border-right: 5px solid cyan;
+  border-bottom: 5px solid cyan;
+  border-left: 5px solid cyan;
+  height: 350px;
+    
+}
+.regPDer{
+  top: 20%;
+  left: 35%;
+  position: absolute;
+  background-image: url("pruebas/bg-pattern.png");
+  border-radius: 20px 20px 20px 20px;
+  border-top: 5px solid darkblue;
+  border-right: 5px solid darkblue;
+  border-bottom: 5px solid darkblue;
+  border-left: 5px solid darkblue;
+  height: 300px;
+  color: white;
+}
+.botonLogin{
+  top: 25%;
+  left: 30%;
+  position: absolute;
+    border-radius: 30px 0px 30px 0px;
+    font-family: 'Bell MT';
+    width: 100px;
+    height: 30px;
+}.botonReg{
+  top: 25%;
+  left: 40%;
+  position: absolute;
+    border-radius: 30px 0px 30px 0px;
+    font-family: 'Bell MT';
+    width: 120px;
+    height: 30px;
+}
+.botonRegis{
+  top: 25%;
+  left: 50%;
+  position: absolute;
+    border-radius: 30px 0px 30px 0px;
+    font-family: 'Bell MT';
+    width: 120px;
+    height: 30px;
+    color: black;
+}
+.botonRegiss{
+  top: 25%;
+  left: 60%;
+  position: absolute;
+    border-radius: 30px 0px 30px 0px;
+    font-family: 'Bell MT';
+    width: 120px;
+    height: 30px;
+}
+.botonRegistr{
+  top: 25%;
+  left: 70%;
+  position: absolute;
+    border-radius: 30px 0px 30px 0px;
+    font-family: 'Bell MT';
+    width: 120px;
+    height: 30px;
+}
+.btnProd{
+  top: 80%;
+  left: 12%;
+  position: absolute;
+    border-radius: 30px 0px 30px 0px;
+    font-family: 'Bell MT';
+    width: 150px;
+    height: 30px;
+}
+.btnReg{
+  top: 80%;
+  left: 58%;
+  position: absolute;
+    border-radius: 10px;
+    font-family: 'Bell MT';
+    width: 120px;
+    height: 30px;
+}
+
+.cajaLogin{
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+  color: navy;
+  font-family: 'Bell MT';
+  font-size: 12pt;
+}
+.cajaRegs{
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+  color: navy;
+  font-family: 'Bell MT';
+  font-size: 12pt;
+}
+.cajaProd{
+  border-radius: 10px;
+  width: 150px;
+  height: 30px;
+  color: navy;
+  font-family: 'Bell MT';
+  font-size: 12pt;
+}
+.textoLogin{
+  color: navy;
+  font-family: 'Bell MT';
+  font-size: 12pt;
+}
+.textoReg{
+  color: darkred;
+  font-weight: bold;
+  font-family: 'Bell MT';
+  font-size: 12pt;
+}
+.textoPod{
+  color: yellow;
+  font-weight: bold;
+  font-family: 'Bell MT';
+  font-size: 12pt;
+}
